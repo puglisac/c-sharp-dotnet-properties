@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D09AF4D8-CE75-4578-8013-CBBFEF764F22}|Default">
+  <MonoDevelop.Ide.ItemProperties.LearningProperties PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LearningProperties/Program.cs">
+    <Files>
+      <File FileName="LearningProperties/Program.cs" Line="13" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LearningProperties" expanded="True">
+            <Node name="LearningProperties" expanded="True">
+              <Node name="References" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

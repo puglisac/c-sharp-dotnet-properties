@@ -1,0 +1,12 @@
+C:/Users/Alex Zanfir/Desktop/Exercise Files/Ch08/04_01/LearningProperties/LearningProperties/bin/Debug/LearningProperties.exe.config
+C:/Users/Alex Zanfir/Desktop/Exercise Files/Ch08/04_01/LearningProperties/LearningProperties/bin/Debug/LearningProperties.exe
+C:/Users/Alex Zanfir/Desktop/Exercise Files/Ch08/04_01/LearningProperties/LearningProperties/bin/Debug/LearningProperties.pdb
+C:/Users/Alex Zanfir/Desktop/Exercise Files/Ch08/04_01/LearningProperties/LearningProperties/obj/Debug/LearningProperties.csprojResolveAssemblyReference.cache
+C:/Users/Alex Zanfir/Desktop/Exercise Files/Ch08/04_01/LearningProperties/LearningProperties/obj/Debug/LearningProperties.exe
+C:/Users/Alex Zanfir/Desktop/Exercise Files/Ch08/04_01/LearningProperties/LearningProperties/obj/Debug/LearningProperties.pdb
+/Users/alanpuglisi/linked_in_c#/LearningProperties/LearningProperties/bin/Debug/LearningProperties.exe.config
+/Users/alanpuglisi/linked_in_c#/LearningProperties/LearningProperties/bin/Debug/LearningProperties.exe
+/Users/alanpuglisi/linked_in_c#/LearningProperties/LearningProperties/bin/Debug/LearningProperties.pdb
+/Users/alanpuglisi/linked_in_c#/LearningProperties/LearningProperties/obj/Debug/LearningProperties.csproj.CoreCompileInputs.cache
+/Users/alanpuglisi/linked_in_c#/LearningProperties/LearningProperties/obj/Debug/LearningProperties.exe
+/Users/alanpuglisi/linked_in_c#/LearningProperties/LearningProperties/obj/Debug/LearningProperties.pdb
